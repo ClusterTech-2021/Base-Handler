@@ -38,7 +38,7 @@ module.exports = {
         const embed = new MessageEmbed()
         .setTitle(`\`✅\` - \`Action Successful\``)
         .setDescription(`No Recorded Bans!`)
-        .setColor(embedColor)
+        .setColor(color)
 
         interaction.followUp({ embeds: [embed], ephemeral: true })
         }
