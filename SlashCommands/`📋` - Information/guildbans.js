@@ -23,7 +23,7 @@ module.exports = {
                 if(!bans.size === '0') {
                     interaction.reply('No Recorded Bans!')
                 } else {
-                    interaction.followUp({ content: `Loading Bans... ${searching}`, ephemeral: true })
+                    interaction.followUp({ content: `Loading Bans...`, ephemeral: true })
 
                     totalbans = new MessageEmbed()
                 .setTitle(`\`🔨\` - \`Ban List Fetched\``)
