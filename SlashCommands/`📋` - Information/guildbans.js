@@ -29,7 +29,7 @@ module.exports = {
                 .setTitle(`\`🔨\` - \`Ban List Fetched\``)
                 .setDescription(`We have a Total of \`${bans.size} Bans!\``)
                 .addField('Ban List', `\`\`\`${bannedMembers}\`\`\``, true)
-                .setColor(embedColor)
+                .setColor(color)
 
                 interaction.editReply({ embeds: [totalbans], ephemeral: true })
                 }
