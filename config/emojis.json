@@ -1,0 +1,20 @@
+{
+    "Emojis": {
+        "success": "<:success:979969795183222794>",
+        "failure": "<:failure:979969795137105960>",
+        "loading": "<:loading:979970052893835335>",
+        "banhammer": "<:banhammer:979970119444881418>",
+        "search": "<:search:979970046497534004>",
+        "ping": "<:ping:978862923030069298>",
+        "ECRPlogo": "<:ECRP:976143451127185468>",
+        "Pollyes": "<:pollyes:979970509318021120>",
+        "Pollno": "<:pollno:979970504561680454>",
+        "NewPoll": "<:poll:979970588217053285>",
+        "Change-Log": "<:950639823012634685:976015698956546048>",
+        "Security": "<:security:979971105953566740>",
+        "ServerMute": "<:servermute:979971271867629648>",
+        "ServerDeaf": "<:serverdeaf:979971610968727562>",
+        "VC-Icon": "<:voicechat:979971296219791400>",
+        "Music": "<:musical:979972530867683418>"
+    }
+}
